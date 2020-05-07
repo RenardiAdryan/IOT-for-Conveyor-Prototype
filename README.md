@@ -10,5 +10,5 @@ This project needs multiple ESP8266 for run
 1. Syncronized Address in firebase 
     Example : "Conveyor/C3/Nilai" -> "Conveyor/C2/Nilai"
     
-# For Further information you can read on report "akhir-conveyor"
+## For Further information you can read on a report "akhir-conveyor"
   - Only in indonesia language
